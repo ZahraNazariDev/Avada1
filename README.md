@@ -9,4 +9,6 @@ developed by html , css
 developed by zahra nazari
 
 
-to contact me <a href="https://www.instagram.com/iimszarii?igsh=MWp2c210NWVnNDd6OA==">instagram</a>
+to contact me <a href="https://www.instagram.com/iimszarii?igsh=MWp2c210NWVnNDd6OA==">instagram</a> or <a href="mailto:iimszarii13@gmail.com">email</a>
+
+
